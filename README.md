@@ -1,5 +1,5 @@
 # Data-Science
 Data-Science Projects
 
-I love data science and love wroking in python.
-The libraries I love tto work with are NumPy, Pandas, Sci-kit Learn, Matplotlib and Seaborn.
+I love data science and love working in python.
+The libraries I love to work with are NumPy, Pandas, Sci-kit Learn, Matplotlib and Seaborn.
